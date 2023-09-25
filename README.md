@@ -7,7 +7,7 @@ The first project I made consisted on web scraping data off of an Illinois Gover
 
 # Welding
 
-The second project I worked on had me taking data from a multitude of places the Ph.D. student had compiled them from, and weld that data was West Nile Virus cases to create a large spreadsheet for all of Illinois. The code for this project is under the welding folder.
+The second project I worked on had me taking data from a multitude of places the Ph.D. student had compiled them from, and weld that data was West Nile Virus cases to create a large spreadsheet for all of Illinois. The code for this project is under the file_welding folder.
 
 # TIF Manipulation
 
@@ -15,7 +15,7 @@ The third project I worked on required me to handle .TIF files (image data), and
 
 # Machine Learning
 
-The fourth project I worked on was a foray into machine learning where I took the welded dataframe from the second project and ran many machine learning models on it. The code for those models is located in the model_performance folder.
+The fourth project I worked on was a foray into machine learning where I took the welded dataframe from the second project and ran many machine learning models on it. The code for those models is located in the machine_learning folder.
 
 # Final US Combinations
 
